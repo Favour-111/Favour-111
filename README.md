@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Favour-111
 - 👀 I’m interested in Mobile app and Webdevelopment
 - 🌱 I’m currently learning phyton
-- 📫 How to reach me http://wa.me+2348069989705
+- 📫 How to reach me http://wa.me/+2348069989705
 - 😄 Pronouns: him/he
 - ⚡ Fun fact: ...
 
