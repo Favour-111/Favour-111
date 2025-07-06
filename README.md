@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omojola obaloluwa Favout</h1>
 <h3 align="center">A passionate FullStack Mobile App and WebDeveloper</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=favour-111&label=Profile%20views&color=0e75b6&style=flat" alt="favour-111" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=favour-111" alt="favour-111" /></a> </p>
 
 - 🔭 I’m currently working on **A functional Bank Application**
@@ -27,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=favour-111&show_icons=true&locale=en&layout=compact" alt="favour-111" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=favour-111&show_icons=true&locale=en" alt="favour-111" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=favour-111&" alt="favour-111" /></p>
