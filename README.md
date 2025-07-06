@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+My name is omojola obaloluwa, and I'm a trained computer scientist intrested in Mobile App development and Web Development
+
+- 🔭 I’m currently working on An Ecommerce Website With An Admin panel and secured backend 
+- 🌱 I Recently built a banking Application
+- 👯 I’m looking to collaborate on GitHub
+   - send me ideas to omojolaobaloluwa@gmail.com
+
 <!--
 **Favour-111/Favour-111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
