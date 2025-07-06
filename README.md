@@ -2,8 +2,8 @@
 
 My name is omojola obaloluwa, and I'm a trained computer scientist intrested in Mobile App development and Web Development
 
-- 🔭 I’m currently working on An Ecommerce Website With An Admin panel and secured backend 
-- 🌱 I Recently built a banking Application
+- 🔭 I’m currently working on a functional banking Application
+- 🌱 I Recently built an Ecommerce Website With An Admin panel and secured backend ,check it out [here](https://villyz-store-md6b.vercel.app/)
 - 👯 I’m looking to collaborate on GitHub
    - send me ideas to omojolaobaloluwa@gmail.com
 
