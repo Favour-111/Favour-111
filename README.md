@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omojola obaloluwa Favout</h1>
+<h1 align="center">Hi 👋, I'm Omojola obaloluwa Favour</h1>
 <h3 align="center">A passionate FullStack Mobile App and WebDeveloper</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=favour-111" alt="favour-111" /></a> </p>
