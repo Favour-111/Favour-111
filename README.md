@@ -9,7 +9,7 @@
 - 💻i currently completed a full stack Ecommerce Website With An Admin Panel And a secured BakcEnd Click [here](https://villyz-store-md6b.vercel.app/) Website [here](https://villyzadmin.onrender.com/)Admin Panel
  
 - 🌱 I’m currently learning **Phyton**
-- 
+  
 - 🌐 Explore this responsive company portfolio website click [here](https://company-portfolio-seven-eosin.vercel.app/)
 
 - 👯 I’m looking to collaborate on **I’m looking to collaborate on GitHub send me ideas to omojolaobaloluwa@gmail.com**
@@ -17,7 +17,6 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Favour-111](https://github.com/Favour-111)
 
 - 📫 How to reach me **omojolaobaloluwa@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
