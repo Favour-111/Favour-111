@@ -6,7 +6,9 @@
 - 🔭 I’m currently working on **A functional Bank Application**
 
 
-- 💻i currently completed a full stack Ecommerce Website With An Admin Panel And a secured BakcEnd Click [here](https://villyz-store-md6b.vercel.app/) Website [here](https://villyzadmin.onrender.com/)Admin Panel
+- 💻i currently completed a full stack Ecommerce Website With An Admin Panel And a secured BackEnd
+        Click [here](https://villyz-store-md6b.vercel.app/) to view Website
+        Click [here](https://villyz-admin.vercel.app/) to view Admin Panel
  
 - 🌱 I’m currently learning **Phyton**
   
