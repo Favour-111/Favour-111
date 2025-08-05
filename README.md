@@ -12,6 +12,8 @@
  
 - 🌱 I’m currently learning **Phyton**
   
+- 🖥 Explore this responsive portfolio website click [here](https://velorex-ai-portfolio.vercel.app/)
+- 
 - 🌐 Explore this responsive company portfolio website click [here](https://company-portfolio-seven-eosin.vercel.app/)
 
 - 👯 I’m looking to collaborate on **I’m looking to collaborate on GitHub send me ideas to omojolaobaloluwa@gmail.com**
